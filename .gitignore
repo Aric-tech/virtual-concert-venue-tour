@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.chrome-test/
+.edge-test/
+.chrome-*/
+preview.png
+.tools/
+assets/*.mp4
+preview-*.png
+bride*.png
